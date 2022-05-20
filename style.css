@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    background-color: grey;
+}
+
+.description{
+    text-align: center;
+}
+
+.analysis{
+    text-align: center;
+}
+
+body{
+    font-size: 25px;
+}
